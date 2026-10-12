@@ -1,3 +1,9 @@
+/*
+ * Program    : Sum of First 50 Natural Numbers
+ * Name       : Hafiz Ahmad Farooq
+ * Reg No     : L1S26BSCS0035
+ * Assignment : 01 - Getting Started with GitHub
+ */
 #include <iostream>
 using namespace std;
 
